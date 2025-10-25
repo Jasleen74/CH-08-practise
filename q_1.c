@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main() {
 
-    char name[50];
+    //char name[50];
 
     //Using %s 
     // printf("Enter ur name pls : ");
