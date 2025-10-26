@@ -3,7 +3,7 @@ that it is now the sliced string. Take ‘m’ and ‘n’ as the start and endi
 for slice.*/
 #include<stdio.h>
 char * slice(char string[], int m , int n ){
-    int i = 0 , count;
+    int i = 0 ;
     char *ptr1 = &string[m];
     char *ptr2 = &string[n];
 
