@@ -10,7 +10,7 @@ int main() {
     scanf("%49s", str1);
  
      for (int i = 0 ; i <strlen(str1); i ++){
-        str1[i] = str1[i]-1;
+        str1[i] = str1[i]-1 ;
      }
 
     printf("the new value is : %s", str1);
